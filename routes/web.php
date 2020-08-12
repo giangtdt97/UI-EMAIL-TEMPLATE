@@ -14,3 +14,4 @@
 Route::get('/welcome', function () {
     return view('welcome');
 });
+Route::get('','sellerRegistrationController@index')->name('seller');
