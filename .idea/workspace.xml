@@ -137,7 +137,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BanabaTech" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunManager">
@@ -154,7 +154,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1597218821034</updated>
-      <workItem from="1597218822107" duration="332000" />
+      <workItem from="1597218822107" duration="2155000" />
     </task>
     <servers />
   </component>
@@ -171,5 +171,19 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1597220114898">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1597220114898" />
+    <state x="604" y="356" key="NewPhpFileDialog" timestamp="1597220105109">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="604" y="356" key="NewPhpFileDialog/0.0.1536.864@0.0.1536.864" timestamp="1597220105109" />
+    <state x="586" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597219441259">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="586" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1597219441259" />
   </component>
 </project>
