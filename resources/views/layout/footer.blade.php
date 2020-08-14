@@ -1,12 +1,8 @@
 <!-- Footer / Email -->
+
 <div class="component h-scale bottom instance" id="n3059_12">
-    <!-- Rectangle 344 -->
-    <div class="scale rectangle" id="nI3059_12-3050_34"></div>
-    <!-- PT. Lorem Ipsum Indonesia Sampoerna Strategic Tower Karet Semanggi, Jakarta Selatan -->
-    <div class="center bottom text" id="nI3059_12-3050_35">PT. Lorem Ipsum Indonesia<br>Sampoerna Strategic Tower<br>Karet Semanggi, Jakarta Selatan
-    </div>
-    <!-- © 2020 Shukshuk -->
-    <div class="h-scale bottom text" id="nI3059_12-3050_47">© 2020 Shukshuk</div>
+    <!-- Please do not reply to this email. If you have any questions, reach us out at admin@shukshuk.com -->
+
     <!-- Logo / Shukshuk / Dark / 24 -->
     <div class="component left top instance" id="nI3059_12-3050_177">
         <!-- Shukshuk -->
@@ -21,12 +17,17 @@
                 <img src="https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/51a1/f9c1/e5cc3e0969bcbd0458c84b540f36ffb5" class="scale vector" id="nI3059_12-3050_177-77_1899" width="20" height="8"></div>
         </div>
     </div>
+    <!-- Rectangle 344 -->
+    <div class="scale rectangle" id="nI3059_12-3050_34"></div>
+    <!-- PT. Lorem Ipsum Indonesia Sampoerna Strategic Tower Karet Semanggi, Jakarta Selatan -->
+    <div class="center bottom text" id="nI3059_12-3050_35">PT. Lorem Ipsum Indonesia<br>Sampoerna Strategic Tower<br>Karet Semanggi, Jakarta Selatan
+    </div>
+
+
+    <!-- © 2020 Shukshuk -->
+    <div class="h-scale bottom text" id="nI3059_12-3050_47">© 2020 Shukshuk</div>
 </div>
-<!-- Please do not reply to this email. If you have any questions, reach us out at admin@shukshuk.com -->
-<div class="subsets left top text" id="n3059_13">
-    <span id="n3059_13-6">Please do not reply to this email. If you have any questions, reach us out at </span>
-    <span id="n3059_13-8">admin@shukshuk.com</span>
-</div>
+
 <style type="text/css">
     /* Footer / Email */
     #n3059_12 {
@@ -118,39 +119,5 @@
         inset: 20.83% 8.33333% 45.83%;
     }
 
-    /* Please do not reply to this email. If you have any questions, reach us out at admin@shukshuk.com */
-    #n3059_13 {
-        align-items: normal;
-        color: rgb(0, 0, 0);
-        vertical-align: middle;
-        justify-content: flex-start;
-        width: 536px;
-        transform: translate(0px, -1.96px);
-        line-height: 21px;
-        height: 42px;
-        left: 32px;
-        top: 570px;
-    }
 
-    /* Please do not reply to this email. If you have any questions, reach us out at admin@shukshuk.com Subset */
-    #n3059_13-6 {
-        font-family: Inter;
-        font-size: 14px;
-        font-weight: 400;
-        line-height: 21px;
-        letter-spacing: -0.14px;
-        align-items: normal;
-        color: rgb(175, 180, 185);
-    }
-
-    /* Please do not reply to this email. If you have any questions, reach us out at admin@shukshuk.com Subset */
-    #n3059_13-8 {
-        font-family: Inter;
-        font-size: 14px;
-        font-weight: 400;
-        line-height: 21px;
-        letter-spacing: -0.14px;
-        align-items: normal;
-        color: rgb(48, 182, 164);
-    }
 </style>

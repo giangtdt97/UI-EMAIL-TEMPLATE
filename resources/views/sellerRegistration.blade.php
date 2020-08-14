@@ -18,6 +18,10 @@
         <span id="n3059_6-8">(Hyperlink to Shukshuk website)</span>
         <span id="n3059_6-undefined"> to return to our website.<br><br>Thanks for being a part of our family!<br>Loads of love,<br>The Shukshuk Team</span>
     </div>
+    <div class="subsets left top text" id="n3059_13">
+        <span id="n3059_13-6">Please do not reply to this email. If you have any questions, reach us out at </span>
+        <span id="n3059_13-8">admin@shukshuk.com</span>
+    </div>
     <style type="text/css">
 
         /* Dear (First Name) (Last Name), */
@@ -138,6 +142,41 @@
             line-height: 21px;
             letter-spacing: -0.14px;
             align-items: normal;
+        }
+        /* Please do not reply to this email. If you have any questions, reach us out at admin@shukshuk.com */
+        #n3059_13 {
+            align-items: normal;
+            color: rgb(0, 0, 0);
+            vertical-align: middle;
+            justify-content: flex-start;
+            width: 536px;
+            transform: translate(0px, -1.96px);
+            line-height: 21px;
+            height: 42px;
+            left: 32px;
+            top: 570px;
+        }
+
+        /* Please do not reply to this email. If you have any questions, reach us out at admin@shukshuk.com Subset */
+        #n3059_13-6 {
+            font-family: Inter;
+            font-size: 14px;
+            font-weight: 400;
+            line-height: 21px;
+            letter-spacing: -0.14px;
+            align-items: normal;
+            color: rgb(175, 180, 185);
+        }
+
+        /* Please do not reply to this email. If you have any questions, reach us out at admin@shukshuk.com Subset */
+        #n3059_13-8 {
+            font-family: Inter;
+            font-size: 14px;
+            font-weight: 400;
+            line-height: 21px;
+            letter-spacing: -0.14px;
+            align-items: normal;
+            color: rgb(48, 182, 164);
         }
     </style>
 @endsection
