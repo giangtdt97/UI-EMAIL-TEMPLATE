@@ -36,6 +36,7 @@
         left: 13.8614%;
         right: 33.1683%;
         text-align: center;
+        text-transform: lowercase;
     }
 
     /* Seller */
@@ -44,12 +45,13 @@
         font-size: 24px;
         font-weight: 500;
         letter-spacing: -0.456px;
-        color: rgb(48, 182, 164);
+        color: #30B6A4;
         vertical-align: middle;
         justify-content: flex-start;
         transform: translate(0px);
         line-height: 28.125px;
         left: 68.8119%;
+        text-transform: capitalize;
     }
     #address {
         font-family: Inter;
@@ -85,7 +87,7 @@
     }
     body {
         position: absolute;
-        width: 536px;
+         width: 536px;
          height: 357px;
          left: 32px;
          top: 181px;

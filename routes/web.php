@@ -11,7 +11,8 @@
 |
 */
 
-Route::get('/welcome', function () {
+Route::get('/', function () {
     return view('welcome');
 });
-Route::get('','sellerRegistrationController@index')->name('seller');
+Route::get('register','sellerRegistrationController@index')->name('accountRegister');
+Route::get('verified','sellerAcountVerifiedController@index')->name('accountVerified');
