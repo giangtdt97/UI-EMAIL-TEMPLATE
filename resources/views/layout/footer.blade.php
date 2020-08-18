@@ -104,7 +104,9 @@
         /* Shukshuk Black */
         color: #222831;
     }
-
+    a {
+        color: rgb(48, 182, 164);
+    }
     p,
     ul,
     ol,
