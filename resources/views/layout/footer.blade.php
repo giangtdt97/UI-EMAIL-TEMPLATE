@@ -18,6 +18,7 @@
 <div class="h-scale bottom text" id="shukshuk2020">© 2020 Shukshuk</div>
 </div>
 <style type="text/css">
+
     body, body *:not(html):not(style):not(br):not(tr):not(code) {
         font-family: Avenir, Helvetica, sans-serif;
         box-sizing: border-box;
