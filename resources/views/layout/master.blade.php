@@ -150,4 +150,5 @@
 <hr>
 @include('layout.footer')
 </body>
+</html>
 
