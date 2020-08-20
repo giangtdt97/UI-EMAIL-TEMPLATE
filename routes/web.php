@@ -18,3 +18,4 @@ Route::get('register','sellerRegistrationController@index')->name('accountRegist
 Route::get('verified','sellerAcountVerifiedController@index')->name('accountVerified');
 Route::get('upload','productUploadController@index')->name('productUpload');
 Route::get('order','orderPendingController@index')->name('orderPending');
+Route::get('orderShipped','orderShippedController@index')->name('orderShipped');
