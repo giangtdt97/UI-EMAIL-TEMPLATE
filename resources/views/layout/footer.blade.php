@@ -2,7 +2,7 @@
 <div class="component left top instance">
     <div class="scale frame">
         <!-- Group -->
-        <div class="group">
+        <div class="group" id="address">
             <!-- Vector -->
             <img src="{{asset("img/Group.svg")}}" class="scale vector" width="38" height="16">
             <!-- Shukshuk -->

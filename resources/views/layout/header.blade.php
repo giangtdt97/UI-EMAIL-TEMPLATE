@@ -8,7 +8,7 @@
         <!-- Logo / Silk / Dark / 24 -->
         <div class="scale frame">
             <!-- Group -->
-            <div>
+            <div class="group" id="address">
                 <!-- Vector -->
                 <img src="{{asset("img/Group.svg")}}" class="scale vector" width="38" height="16">
                 <!-- Shukshuk -->
