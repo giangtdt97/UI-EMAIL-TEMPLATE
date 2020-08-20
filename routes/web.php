@@ -17,3 +17,4 @@ Route::get('/', function () {
 Route::get('register','sellerRegistrationController@index')->name('accountRegister');
 Route::get('verified','sellerAcountVerifiedController@index')->name('accountVerified');
 Route::get('upload','productUploadController@index')->name('productUpload');
+Route::get('order','orderPendingController@index')->name('orderPending');

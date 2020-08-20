@@ -160,5 +160,9 @@
         left: 32px;
         top: 181px;
     }
+    table, th, td {
+        border: 1px solid black;
+        box-sizing: border-box;
+    }
 
 </style>
