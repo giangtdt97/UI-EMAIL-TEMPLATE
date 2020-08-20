@@ -85,7 +85,7 @@
                 </div>
 
                 <div class="links">
-                    <a href="{{route('accountRegister')}}">Email Register Annoucment</a>
+                    <a href="{{route('accountRegister')}}">Email Register Announcement</a>
                     <a href="{{route('accountVerified')}}">Email Verification</a>
                     <a href="{{route('productUpload')}}">Email Product Upload</a>
                     <a href="{{route('orderPending')}}">Email Order Pending</a>

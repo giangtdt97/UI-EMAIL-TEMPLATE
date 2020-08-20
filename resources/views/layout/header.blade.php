@@ -12,9 +12,9 @@
                 <!-- Vector -->
                 <img src="{{asset("img/Group.svg")}}" class="scale vector" width="38" height="16">
                 <!-- Shukshuk -->
-                <span class="scale text" id="shukshuk">Shukshuk</span>
+                <span class="scale text" id="shukshuk"><strong>Shukshuk</strong></span>
                 <!-- Seller -->
-                <span class="scale text" id="seller">Seller</span>
+                <span class="scale text" id="seller"><strong>Seller</strong></span>
             </div>
         </div>
 

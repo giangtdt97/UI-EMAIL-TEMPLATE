@@ -6,7 +6,7 @@
             <!-- Vector -->
             <img src="{{asset("img/Group.svg")}}" class="scale vector" width="38" height="16">
             <!-- Shukshuk -->
-            <span class="scale text" id="shukshuk">Shukshuk</span>
+            <span class="scale text" id="shukshuk"><strong>Shukshuk</strong></span>
         </div>
     </div>
 </div>
@@ -106,6 +106,7 @@
     }
     a {
         color: rgb(48, 182, 164);
+        font-weight: bold;
     }
     p,
     ul,
